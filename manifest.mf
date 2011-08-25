@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: info.joaolopes.Prefixr
+OpenIDE-Module-Localizing-Bundle: info/joaolopes/Prefixr/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

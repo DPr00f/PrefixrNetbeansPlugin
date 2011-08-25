@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="info.joaolopes.Prefixr">
+    <module_version install_time="1314285512312" last="true" origin="installer" specification_version="1.0">
+        <file crc="177823011" name="config/Modules/info-joaolopes-Prefixr.xml"/>
+        <file crc="4044551927" name="modules/info-joaolopes-Prefixr.jar"/>
+    </module_version>
+</module>
