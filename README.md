@@ -4,7 +4,7 @@ Prefixr [Netbeans Plugin]
 Prefixr for Netbeans is a plugin developed by **Joao Lopes** that
 uses the website [http://prefixr.com/](http://prefixr.com/) created by **Jefrey Way**
 
-![Screenshot](https://github.com/DPr00f/PrefixrNetbeansPlugin/blob/master/prefixr-screenshot.jpg)
+![Screenshot](https://github.com/DPr00f/PrefixrNetbeansPlugin/raw/master/prefixr-screenshot.jpg)
 
 
 Contributing
@@ -18,7 +18,7 @@ Maybe i'll join the cause.
 Installation
 ------------
 
-1. Download plugin [here](https://github.com/DPr00f/PrefixrNetbeansPlugin/blob/master/info-joaolopes-Prefixr.nbm)
+1. Download plugin [here](http://dpr00f.github.com/PrefixrNetbeansPlugin/info-joaolopes-Prefixr.nbm)
 2. In Netbeans select the menu **Tools** > **Plugins**
 3. Select the tab **Downloaded** and press **Add Plugins...**
 4. Locate `info-joaolopes-Prefixr.nbm` file click on it, press **Open** and then click **Install**. 
