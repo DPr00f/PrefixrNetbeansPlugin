@@ -4,7 +4,7 @@ Prefixr [Netbeans Plugin]
 Prefixr for Netbeans is a plugin developed by **Joao Lopes** that
 uses the website [http://prefixr.com/](http://prefixr.com/) created by **Jefrey Way**
 
-![Screenshot](https://github.com/DPr00f/PrefixrNetbeansPlugin/blob/master/prefixr-screenshot.jpg)
+![Screenshot](https://github.com/DPr00f/PrefixrNetbeansPlugin/raw/master/prefixr-screenshot.jpg)
 
 
 Contributing
