@@ -18,10 +18,10 @@ Maybe i'll join the cause.
 Installation
 ------------
 
-1. Download plugin [here](http://dpr00f.github.com/PrefixrNetbeansPlugin/info-joaolopes-Prefixr.nbm)
+1. Download plugin [here](https://github.com/downloads/DPr00f/PrefixrNetbeansPlugin/info-joaolopes-Prefixr.nbm)
 2. In Netbeans select the menu **Tools** > **Plugins**
 3. Select the tab **Downloaded** and press **Add Plugins...**
-4. Locate `info-joaolopes-Prefixr.nbm` file click on it, press **Open** and then click **Install**. 
+4. Locate [info-joaolopes-Prefixr.nbm](https://github.com/downloads/DPr00f/PrefixrNetbeansPlugin/info-joaolopes-Prefixr.nbm) file and click on it, press **Open** and then click **Install**. 
 
 
 Usage
